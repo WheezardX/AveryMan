@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Chase.cs" />
+    <Compile Include="Assets\Level.cs" />
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>D:/Experiments/Unity/AveryMan/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
